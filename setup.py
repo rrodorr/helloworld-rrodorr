@@ -4,11 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="helloworld",
+    name="helloworld-rrodorr",
     version="0.0.1",
     description="Say hello!",
     py_modules=["helloworld"],
     package_dir={"": "src"},
+    url="tba",
+    author="rrodorr",
+    author_email="rrodorr@posteo.net",
     long_description=long_description,
     long_description_content_type="text/markdown",
     install_requires = [
