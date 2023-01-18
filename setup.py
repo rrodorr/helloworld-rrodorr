@@ -9,7 +9,7 @@ setup(
     description="Say hello!",
     py_modules=["helloworld"],
     package_dir={"": "src"},
-    url="tba",
+    url="https://github.com/rrodorr/helloworld-rrodorr",
     author="rrodorr",
     author_email="rrodorr@posteo.net",
     long_description=long_description,
